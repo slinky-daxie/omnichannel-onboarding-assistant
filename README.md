@@ -49,3 +49,9 @@ The flow definition lives in:
 ```text
 flows/
   Simple Agent Onboarding.json
+
+## 📸 Flow Diagram
+
+Here's the LangFlow graph for the onboarding assistant:
+
+![Flow Diagram](screenshots/flow_diagram.png)
