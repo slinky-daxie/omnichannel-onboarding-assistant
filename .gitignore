@@ -1,0 +1,9 @@
+# Ignore private environment variables
+.env
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Python cache if you add Python later
+__pycache__/
+*.pyc
