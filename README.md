@@ -54,4 +54,4 @@ flows/
 
 Here's the LangFlow graph for the onboarding assistant:
 
-![Flow Diagram](screenshots/flow_diagram.png)
+![Flow Diagram](screenshots/...)
